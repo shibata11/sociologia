@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/sociologia/pages/index.js"],"sourcesContent":["\n\nfunction Home() {\n    return <h1>Sociologia o que é ?</h1>\n            \n}\n\nexport default Home;"],"names":["Home"],"mappings":";;;;;;AAEA,SAASA;IACL,qBAAO,qKAAC;kBAAG;;;;;;AAEf;uCAEeA"}}]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "sociologia",
+  "version": "1.0.0",
+  "description": "Site para descobrirmos o que é e o que estuda a sociologia.",
+  "type": "module",
+  "homepage": "https://github.com/shibata11/sociologia#readme",
+  "bugs": {
+    "url": "https://github.com/shibata11/sociologia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibata11/sociologia.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
