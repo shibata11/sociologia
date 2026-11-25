@@ -1,7 +1,7 @@
 
 
 function Home() {
-    return <h1>Hey nenem vamos beijar na boca hoje</h1>
+    return <h1>Acho paia você nao me da atençao</h1>
             
 }
 
