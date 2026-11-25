@@ -1,7 +1,7 @@
 
 
 function Home() {
-    return <h1>Sociologia o que é ?</h1>
+    return <h1>Hey nenem vamos beijar na boca hoje</h1>
             
 }
 
